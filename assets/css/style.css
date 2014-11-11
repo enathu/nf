@@ -201,7 +201,7 @@ input {
 
 /* HEADER SECTION */
 #h {
-	background: url(../img/header.jpg) no-repeat center top;
+	background: url(../img/header-2.jpg) no-repeat center top;
 	padding-top: 5px;
 	background-attachment: relative;
 	background-position: center center;
@@ -224,6 +224,7 @@ input {
 	margin-top: 30px;
 	margin-left: 40px;
 	padding-bottom: 150px;
+    text-align: center;
 }
 
 #h .logo h2{
