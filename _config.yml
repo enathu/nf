@@ -1,11 +1,11 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: NIRAM FACTORY
+title: SOLID.
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
-url: "http://niram.xyz"
+url: "http://yourdomain.com"
 
 # Build settings
 markdown: kramdown
@@ -27,24 +27,24 @@ colors:  #in hex code if not noted else
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
   - title: dribbble
-    url: http://dribbble.com/enathu
+    url:
   - title: facebook
-    url:http://dribbble.com/niramlabs
+    url:
   - title: twitter
-    url: http://twitter.com/enathu
+    url: 
   - title: instagram
-    url: http://instagram.com/enathu
+    url: 
   - title: tumblr
-    url: http://lab.niram.org
+    url: 
     
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines: 
-    - High Street
-    - Manor Park
-    - London
-email: me@niram.org
-tel: --
+    - Some Ave, 987,
+    - 23890, New York,
+    - United States.
+email: hello@solidtheme.com
+tel: +34 8493-4893
 
 
 ### GENERAL DATA FOR VARIOUS LOCATIONS ###
